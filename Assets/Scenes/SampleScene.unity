@@ -2065,17 +2065,17 @@ MonoBehaviour:
     PositionObject: {fileID: 1073391566}
   - Name: STBuilding
     PositionObject: {fileID: 2053408627}
-  - Name: GLEBldg
+  - Name: GLEBuilding
     PositionObject: {fileID: 1805761305}
-  - Name: Library
+  - Name: LRACBuilding
     PositionObject: {fileID: 481327204}
   - Name: Canteen
     PositionObject: {fileID: 1480898604}
   - Name: VolleyballCourt
     PositionObject: {fileID: 121267885}
-  - Name: IMDC
+  - Name: IMDCBuilding
     PositionObject: {fileID: 1435786845}
-  - Name: CEABldg
+  - Name: EngineeringBuilding
     PositionObject: {fileID: 220803883}
   - Name: BasketballCourt
     PositionObject: {fileID: 840804233}
