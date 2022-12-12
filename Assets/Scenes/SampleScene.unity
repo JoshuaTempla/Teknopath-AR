@@ -38,7 +38,7 @@ RenderSettings:
   m_ReflectionIntensity: 1
   m_CustomReflection: {fileID: 0}
   m_Sun: {fileID: 705507994}
-  m_IndirectSpecularColor: {r: 0.44402242, g: 0.49316543, b: 0.5722324, a: 1}
+  m_IndirectSpecularColor: {r: 0.44657874, g: 0.49641275, b: 0.5748172, a: 1}
   m_UseRadianceAmbientProbe: 0
 --- !u!157 &3
 LightmapSettings:
@@ -2061,9 +2061,9 @@ MonoBehaviour:
   sessionOrigin: {fileID: 1149535854}
   cameraManager: {fileID: 1084972006}
   navigationTargetObjects:
-  - Name: MainBldg
+  - Name: MainBuilding
     PositionObject: {fileID: 1073391566}
-  - Name: STBldg
+  - Name: STBuilding
     PositionObject: {fileID: 2053408627}
   - Name: GLEBldg
     PositionObject: {fileID: 1805761305}
